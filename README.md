@@ -1,6 +1,5 @@
 <h6>연구실 심화 실습<h6>
 <h2> modesolverhelper <h2>
-#####
 + This repository can help you how to solve modes Silicon optical-waveguide by using modesolverpy which is an open-source code.
 
 ### Project members
@@ -12,6 +11,7 @@
  Getting Stared
    + Entered the Terminal, write down 'pip install -r requirements.txt' and download it. \
 ```pip install -r requirements.txt```
+ 
 ## Introduction
 > + Background of Si photonics
 >   + The problem is that electronics reduces energy efficiency when processing and processing data in a data center. 
