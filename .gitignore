@@ -3,11 +3,7 @@ Pipfile.lock
 notebooks/
 scripts/maketags
 
-examples/example_structure_1.png
-examples/modes_semi_vec/
-
 *.cprof
-*.ipynb
 .ipynb_checkpoints/
 
 # Sphinx documentation
@@ -69,7 +65,6 @@ Icon?
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
 
 # C extensions
 *.so
