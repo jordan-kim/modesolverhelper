@@ -1,6 +1,5 @@
 <h6>연구실 심화 실습<h6>
 <h2> modesolverhelper <h2>
-
 #####
 + This repository can help you how to solve modes Silicon optical-waveguide by using modesolverpy which is an open-source code.
 
